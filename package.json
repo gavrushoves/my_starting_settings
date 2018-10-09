@@ -1,12 +1,12 @@
 {
   "name": "project",
   "version": "1.0.0",
-  "description": "My First Gulp Project",
+  "description": "Project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "WebDesign Master",
+  "author": "Evgeny Gavrushov",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.24.6",
